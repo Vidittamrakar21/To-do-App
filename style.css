@@ -87,4 +87,8 @@ body{
     font-size: 25px;
 }
 
+#del:hover{
+    color: #FB5B5A;
+    cursor: pointer;
 
+}
